@@ -57,15 +57,13 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C353%20hrs%2019%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 36.7 kB Used in GitHub's Storage 
+> 📦 36.6 kB Used in GitHub's Storage 
  > 
 > 🏆 370 Contributions in the Year 2025
  > 
@@ -137,5 +135,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2025 12:51:28 UTC
+ Last Updated on 27/03/2025 18:36:50 UTC
 <!--END_SECTION:waka-->
