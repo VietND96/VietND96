@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Viet Nguyen</h1>
 <h3 align="left">A passionate Software Quality Engineer</h3>
 
-- 🔭 I’m currently working at [TMA Tech Group](https://www.tmasolutions.vn/)
+- 🔭 I’m currently working at [Katalon](https://github.com/enterprises/katalon/organizations)
 
 - 🌱 I’m currently interested in **bringing DevOps tools and best practices into Test Automation to improve the
   efficiency and effectiveness of software testing processes**
