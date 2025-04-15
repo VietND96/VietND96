@@ -65,7 +65,7 @@ WakaTime</a> </h3>
 
 **🐱 My GitHub Data** 
 
-> 📦 38.5 kB Used in GitHub's Storage 
+> 📦 38.6 kB Used in GitHub's Storage 
  > 
 > 🏆 452 Contributions in the Year 2025
  > 
@@ -119,7 +119,7 @@ Mac                      16 hrs 19 mins      ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Java                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
 Groovy                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
@@ -133,5 +133,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2025 01:59:19 UTC
+ Last Updated on 15/04/2025 06:39:39 UTC
 <!--END_SECTION:waka-->
