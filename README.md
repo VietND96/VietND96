@@ -57,11 +57,11 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C435%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C436%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -75,48 +75,6 @@ WakaTime</a> </h3>
  > 
 > 🔑 6 Private Repository 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2287 commits        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-🌆 Daytime                3003 commits        ████████░░░░░░░░░░░░░░░░░   32.20 % 
-🌃 Evening                2699 commits        ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-🌙 Night                  1338 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1765 commits        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Tuesday                  1666 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Wednesday                1792 commits        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Thursday                 1637 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Friday                   1134 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Saturday                 773 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Sunday                   560 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-JavaScript               5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-RobotFramework           3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Java                     2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-YAML                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Bash                     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-
-🔥 Editors: 
-IntelliJ IDEA            26 hrs 28 mins      ████████████████████████░   97.11 % 
-Terminal                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-
-💻 Operating System: 
-Mac                      19 hrs 50 mins      ██████████████████░░░░░░░   72.77 % 
-Linux                    7 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -134,5 +92,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2025 18:38:23 UTC
+ Last Updated on 25/04/2025 01:59:36 UTC
 <!--END_SECTION:waka-->
