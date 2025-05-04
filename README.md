@@ -57,7 +57,7 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C456%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C455%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
@@ -67,7 +67,7 @@ WakaTime</a> </h3>
 
 > 📦 40.4 kB Used in GitHub's Storage 
  > 
-> 🏆 479 Contributions in the Year 2025
+> 🏆 480 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -121,11 +121,11 @@ Unknown OS               3 hrs 8 mins        ████░░░░░░░�
 **I Mostly Code in Java** 
 
 ```text
-Java                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Groovy                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Java                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Groovy                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -135,5 +135,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2025 12:17:06 UTC
+ Last Updated on 04/05/2025 18:14:54 UTC
 <!--END_SECTION:waka-->
