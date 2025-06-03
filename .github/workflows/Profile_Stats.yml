@@ -20,7 +20,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 7
 
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@984399484754c41f271ddbd8b3799b98ad472497
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
