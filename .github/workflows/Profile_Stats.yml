@@ -27,4 +27,5 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROJECTS: "False"
+          SHOW_PROFILE_VIEWS: "False"
           SYMBOL_VERSION: 1
