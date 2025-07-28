@@ -29,3 +29,10 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
           SYMBOL_VERSION: 1
+
+      - run: |
+          for i in {1..20}; do
+            echo "Run #$i"
+            curl "https://camo.githubusercontent.com/a1ec832c17e6a7638c03e360ff5a4a8b12cdb8b0f962be7590227cbb42f8480e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d766965746e643936266c6162656c3d47697448756225323050726f66696c65253230566965777326636f6c6f723d306537356236267374796c653d666c6174"
+            sleep 1
+          done
