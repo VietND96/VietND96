@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/VietND96/VietND96/main/profile-summary-card-output/rose_pine/4-productive-time.svg)
-```
-
-    
