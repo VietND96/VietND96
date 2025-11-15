@@ -1,16 +1,15 @@
 <h1 align="left">Hi there 👋, I'm Viet Nguyen</h1>
 <h3 align="left">A passionate Software Quality Engineer</h3>
 
-- 🔭 I’m currently working at [Katalon](https://katalon.com/) | Product line [TrueTest](https://katalon.com/truetest) - The future of AI-Native Testing
+- 🔭 I’m currently working at [Katalon](https://katalon.com/) | Product line [TrueTest](https://katalon.com/truetest)
 
-- 🌱 I’m currently interested in **bringing DevOps tools and best practices into Test Automation to improve the
-  efficiency and effectiveness of software testing processes**
+- 🌱 I’m currently focused on **building software-defined test automation ecosystem that integrates CI/CD toolchains, AI-driven workflows, and shift-everywhere testing practices to deliver faster, more intelligent, and scalable testing**
 
 - 👯 I’m looking to share with you about [Happy TestOps](https://github.com/ndviet)
 
 - 👨‍💻 All of my projects are available at [Happy TestOps](https://github.com/ndviet)
 
-- 💬 Ask me about **testing in general, test automation, CI/CD, DevOps tools**
+- 💬 Ask me about **testing in general, test automation in the AI era, CI/CD toolchains**
 
 - 📫 How to reach me **nguyenducviet4496@gmail.com / viet.nguyen@ndviet.org**
 
