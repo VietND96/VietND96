@@ -56,13 +56,13 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C088%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C088%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 98.6 kB Used in GitHub's Storage 
+> 📦 98.7 kB Used in GitHub's Storage 
  > 
 > 🏆 1,188 Contributions in the Year 2025
  > 
@@ -77,7 +77,7 @@ WakaTime</a> </h3>
 ```text
 🌞 Morning                4863 commits        ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
 🌆 Daytime                7136 commits        █████████░░░░░░░░░░░░░░░░   36.04 % 
-🌃 Evening                5365 commits        ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+🌃 Evening                5366 commits        ███████░░░░░░░░░░░░░░░░░░   27.10 % 
 🌙 Night                  2435 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -86,7 +86,7 @@ WakaTime</a> </h3>
 Monday                   3910 commits        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
 Tuesday                  3576 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
 Wednesday                3711 commits        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Thursday                 3710 commits        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Thursday                 3711 commits        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
 Friday                   2437 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
 Saturday                 1444 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 Sunday                   1011 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
@@ -134,5 +134,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2025 15:23:15 UTC
+ Last Updated on 18/12/2025 18:25:14 UTC
 <!--END_SECTION:waka-->
