@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **testing in general, test automation in the AI era, CI/CD toolchains**
 
-- 📫 How to reach me **nguyenducviet4496@gmail.com / viet.nguyen@ndviet.org**
+- 📫 How to reach me **nguyenducviet4496@gmail.com**
 
 - 📄 Know about my experiences via [LinkedIn](https://www.linkedin.com/in/vietnd96/)
 
