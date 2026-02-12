@@ -56,7 +56,7 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C427%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C426%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -120,11 +120,11 @@ Unknown OS               3 hrs 32 mins       ██░░░░░░░░░�
 **I Mostly Code in Groovy** 
 
 ```text
-Groovy                   15 repos            ████████░░░░░░░░░░░░░░░░░   30.61 % 
-Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Java                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Groovy                   16 repos            ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Java                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
@@ -134,5 +134,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2026 15:44:04 UTC
+ Last Updated on 12/02/2026 18:45:35 UTC
 <!--END_SECTION:waka-->
