@@ -62,7 +62,7 @@ WakaTime</a> </h3>
 
 **🐱 My GitHub Data** 
 
-> 📦 108.4 kB Used in GitHub's Storage 
+> 📦 108.2 kB Used in GitHub's Storage 
  > 
 > 🏆 167 Contributions in the Year 2026
  > 
@@ -134,5 +134,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2026 21:31:05 UTC
+ Last Updated on 28/02/2026 00:43:30 UTC
 <!--END_SECTION:waka-->
