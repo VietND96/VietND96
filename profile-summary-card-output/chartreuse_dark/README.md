@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/VietND96/VietND96/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)
+```
+
+    
