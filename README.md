@@ -27,8 +27,6 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C061%20hrs%2046%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.79%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -47,8 +45,8 @@ WakaTime</a> </h3>
 
 ```text
 🌞 Morning                6462 commits        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-🌆 Daytime                9013 commits        ████████░░░░░░░░░░░░░░░░░   33.93 % 
-🌃 Evening                7314 commits        ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+🌆 Daytime                9012 commits        ████████░░░░░░░░░░░░░░░░░   33.93 % 
+🌃 Evening                7315 commits        ███████░░░░░░░░░░░░░░░░░░   27.54 % 
 🌙 Night                  3775 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -105,5 +103,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2026 09:59:57 UTC
+ Last Updated on 09/05/2026 12:48:31 UTC
 <!--END_SECTION:waka-->
