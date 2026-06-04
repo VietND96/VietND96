@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Viet Nguyen</h1>
 <h3 align="left">A passionate Software Quality Engineer</h3>
 
-- 🔭 I’m currently working at [Katalon](https://katalon.com/) | Product line [TrueTest](https://katalon.com/truetest)
+- 🔭 I’m currently working at [HRS Group](https://connect.hrs.com/).
 
 - 🌱 I’m currently focused on **building software-defined test automation ecosystem that integrates CI/CD toolchains, AI-driven workflows, and shift-everywhere testing practices to deliver faster, more intelligent, and scalable testing**
 
