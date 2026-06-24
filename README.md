@@ -35,7 +35,7 @@ WakaTime</a> </h3>
 
 > 📦 93.2 kB Used in GitHub's Storage 
  > 
-> 🏆 464 Contributions in the Year 2026
+> 🏆 466 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -43,6 +43,51 @@ WakaTime</a> </h3>
  > 
 > 🔑 1 Private Repository 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+TypeScript               6 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+Other                    6 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+YAML                     4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Java                     4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Markdown                 3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+
+🔥 Editors: 
+Claude Code              14 hrs 45 mins      █████████████░░░░░░░░░░░░   52.24 % 
+Chrome                   6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+IntelliJ IDEA            3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+VS Code                  3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Slack                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+
+💻 Operating System: 
+Windows                  23 hrs 13 mins      █████████████████████░░░░   82.23 % 
+Mac                      5 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+```
+
 ```text
 
 ```
@@ -54,5 +99,5 @@ WakaTime</a> </h3>
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2026 21:34:20 UTC
+ Last Updated on 24/06/2026 00:39:54 UTC
 <!--END_SECTION:waka-->
