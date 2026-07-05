@@ -27,7 +27,7 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C444%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C451%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
@@ -70,22 +70,22 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    9 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-Markdown                 8 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Java                     6 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-TypeScript               5 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-YAML                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Other                    9 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Markdown                 8 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Java                     8 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+TypeScript               8 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+YAML                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 24 mins      ███████████████░░░░░░░░░░   59.02 % 
-Chrome                   9 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-IntelliJ IDEA            3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-VS Code                  1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Slack                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Claude Code              27 hrs 14 mins      ████████████████░░░░░░░░░   63.25 % 
+Chrome                   9 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+IntelliJ IDEA            3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+VS Code                  1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Slack                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 💻 Operating System: 
-Windows                  32 hrs 7 mins       ████████████████████░░░░░   80.99 % 
-Mac                      7 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Windows                  37 hrs 8 mins       ██████████████████████░░░   86.22 % 
+Mac                      5 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
 ```
 
 ```text
@@ -99,5 +99,5 @@ Mac                      7 hrs 32 mins       █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2026 19:10:55 UTC
+ Last Updated on 05/07/2026 21:57:59 UTC
 <!--END_SECTION:waka-->
