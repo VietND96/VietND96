@@ -27,15 +27,15 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C472%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C485%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 94.4 kB Used in GitHub's Storage 
+> 📦 94.5 kB Used in GitHub's Storage 
  > 
-> 🏆 536 Contributions in the Year 2026
+> 🏆 537 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,22 +70,22 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 9 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Other                    8 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-TypeScript               7 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Python                   5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Java                     3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Markdown                 10 hrs              █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Other                    6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+TypeScript               6 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Python                   5 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Java                     5 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 21 mins      ████████████████░░░░░░░░░   62.09 % 
-Chrome                   8 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-IntelliJ IDEA            5 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-VS Code                  2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Slack                    33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Claude Code              32 hrs 29 mins      █████████████████░░░░░░░░   67.09 % 
+IntelliJ IDEA            7 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Chrome                   6 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+VS Code                  1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Slack                    35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 💻 Operating System: 
-Windows                  42 hrs 16 mins      ███████████████████████░░   92.58 % 
-Mac                      3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Windows                  45 hrs 28 mins      ███████████████████████░░   93.90 % 
+Mac                      2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 
 ```text
@@ -99,5 +99,5 @@ Mac                      3 hrs 23 mins       ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2026 19:18:55 UTC
+ Last Updated on 08/07/2026 22:01:58 UTC
 <!--END_SECTION:waka-->
