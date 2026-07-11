@@ -27,13 +27,13 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C498%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C499%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 94.4 kB Used in GitHub's Storage 
+> 📦 94.5 kB Used in GitHub's Storage 
  > 
 > 🏆 538 Contributions in the Year 2026
  > 
@@ -43,51 +43,6 @@ WakaTime</a> </h3>
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Markdown                 10 hrs 57 mins      █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-TypeScript               10 hrs 2 mins       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Java                     5 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Other                    5 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Python                   5 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-
-🔥 Editors: 
-Claude Code              40 hrs 19 mins      ███████████████████░░░░░░   74.94 % 
-IntelliJ IDEA            6 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Chrome                   5 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-VS Code                  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Slack                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-
-💻 Operating System: 
-Windows                  50 hrs 24 mins      ███████████████████████░░   93.68 % 
-Mac                      3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-```
-
 ```text
 
 ```
@@ -99,5 +54,5 @@ Mac                      3 hrs 24 mins       ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2026 18:55:58 UTC
+ Last Updated on 11/07/2026 21:44:11 UTC
 <!--END_SECTION:waka-->
