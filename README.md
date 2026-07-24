@@ -27,7 +27,7 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C554%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C596%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
@@ -70,20 +70,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-Other                    3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Java                     2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-YAML                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Markdown                 2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+TypeScript               5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+Other                    3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Java                     3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Markdown                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+YAML                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 1 min        ███████████████████░░░░░░   77.95 % 
-Chrome                   2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-IntelliJ IDEA            1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Claude Code              15 hrs 16 mins      ████████████████████░░░░░   78.23 % 
+Chrome                   2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+IntelliJ IDEA            1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Windows                  19 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -97,5 +97,5 @@ Windows                  19 hrs 16 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 22:01:43 UTC
+ Last Updated on 24/07/2026 02:15:09 UTC
 <!--END_SECTION:waka-->
