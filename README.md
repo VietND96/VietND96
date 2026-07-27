@@ -27,7 +27,9 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C628%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C571%20hrs%2025%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-330%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
@@ -85,6 +87,31 @@ Chrome                   1 hr 45 mins        █░░░░░░░░░░�
 Windows                  31 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 28 hrs 6 mins (89.27%)
+
+✍️ 13,460 lines written by AI, 445 lines written by hand (96.8% AI-written)
+
+🔤 767,181,404 Input Tokens, 1,961,897 Output Tokens
+
+💵 $3882.24 Estimated AI Cost This Week
+
+🧠 27 AI Sessions, 230 AI Prompts
+
+Opus                     14,449 lines        █████████████████████████   99.99 % 
+Sonnet                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.8% of written lines came from AI
+📚 Verbose Prompter — average 6,156 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 3.24% of changed lines were hand-edited
+```
+
 ```text
 
 ```
@@ -96,5 +123,5 @@ Windows                  31 hrs 29 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 12:17:36 UTC
+ Last Updated on 27/07/2026 16:55:11 UTC
 <!--END_SECTION:waka-->
