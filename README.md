@@ -27,9 +27,9 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C600%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C605%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-360%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-364%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
@@ -72,45 +72,47 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 14 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   29.10 % 
-Python                   13 hrs 36 mins      ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-SQL                      3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Other                    3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-YAML                     3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Markdown                 14 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+Python                   12 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+Other                    4 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+YAML                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+JavaScript               3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 
 🔥 Editors: 
-Claude Code              39 hrs 36 mins      ████████████████████░░░░░   79.17 % 
-IntelliJ IDEA            7 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Chrome                   2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-VS Code                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Claude Code              38 hrs 8 mins       ███████████████████░░░░░░   74.99 % 
+IntelliJ IDEA            6 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Chrome                   5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Terminal                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+VS Code                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Windows                  50 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  46 hrs 58 mins      ███████████████████████░░   92.37 % 
+Mac                      3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 hrs 50 mins (91.64%)
+⏱ AI Coding Time: 44 hrs 34 mins (87.64%)
 
-✍️ 23,887 lines written by AI, 81 lines written by hand (99.66% AI-written)
+✍️ 25,215 lines written by AI, 17 lines written by hand (99.93% AI-written)
 
-🔤 1,125,751,168 Input Tokens, 2,934,729 Output Tokens
+🔤 1,072,158,573 Input Tokens, 2,954,284 Output Tokens
 
-💵 $5529.21 Estimated AI Cost This Week
+💵 $5260.68 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 285 AI Prompts
+🧠 37 AI Sessions, 269 AI Prompts
 
-Opus                     24,223 lines        █████████████████████████   98.93 % 
-Sonnet                   262 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Opus                     25,463 lines        █████████████████████████   98.98 % 
+Sonnet                   262 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.66% of written lines came from AI
-📚 Verbose Prompter — average 7,421 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.42% of changed lines were hand-edited
+🤖 AI-Driven — 99.93% of written lines came from AI
+📚 Verbose Prompter — average 6,019 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.31% of changed lines were hand-edited
 ```
 
 ```text
@@ -124,5 +126,5 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 19:02:36 UTC
+ Last Updated on 01/08/2026 21:52:49 UTC
 <!--END_SECTION:waka-->
