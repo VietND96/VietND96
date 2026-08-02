@@ -27,9 +27,9 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C605%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C611%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-364%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-369%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
@@ -72,47 +72,47 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 14 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-Python                   12 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-Other                    4 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-YAML                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-JavaScript               3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Markdown                 11 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Python                   9 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Other                    6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+YAML                     3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+JavaScript               3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 
 🔥 Editors: 
-Claude Code              38 hrs 8 mins       ███████████████████░░░░░░   74.99 % 
-IntelliJ IDEA            6 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Chrome                   5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Terminal                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-VS Code                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Claude Code              33 hrs 28 mins      ██████████████████░░░░░░░   71.97 % 
+Chrome                   7 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+IntelliJ IDEA            3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Terminal                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+VS Code                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Windows                  46 hrs 58 mins      ███████████████████████░░   92.37 % 
-Mac                      3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Windows                  39 hrs 24 mins      █████████████████████░░░░   84.72 % 
+Mac                      7 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 hrs 34 mins (87.64%)
+⏱ AI Coding Time: 38 hrs 16 mins (82.28%)
 
-✍️ 25,215 lines written by AI, 17 lines written by hand (99.93% AI-written)
+✍️ 34,283 lines written by AI, 74 lines written by hand (99.78% AI-written)
 
-🔤 1,072,158,573 Input Tokens, 2,954,284 Output Tokens
+🔤 1,004,821,089 Input Tokens, 2,806,420 Output Tokens
 
-💵 $5260.68 Estimated AI Cost This Week
+💵 $4969.03 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 269 AI Prompts
+🧠 39 AI Sessions, 235 AI Prompts
 
-Opus                     25,463 lines        █████████████████████████   98.98 % 
-Sonnet                   262 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Opus                     34,444 lines        █████████████████████████   99.25 % 
+Sonnet                   262 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 6,019 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.31% of changed lines were hand-edited
+🤖 AI-Driven — 99.78% of written lines came from AI
+📚 Verbose Prompter — average 6,716 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.51% of changed lines were hand-edited
 ```
 
 ```text
@@ -126,5 +126,5 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:03:30 UTC
+ Last Updated on 02/08/2026 21:51:44 UTC
 <!--END_SECTION:waka-->
