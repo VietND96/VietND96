@@ -27,9 +27,9 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C626%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C635%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-384%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-391%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
@@ -72,46 +72,46 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   12 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-Other                    10 hrs 46 mins      ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-Markdown                 8 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Bash                     2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-YAML                     2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Python                   13 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+Other                    11 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+Markdown                 8 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Bash                     3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+YAML                     3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🔥 Editors: 
-Claude Code              31 hrs 36 mins      █████████████████░░░░░░░░   66.28 % 
-Chrome                   11 hrs 26 mins      ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-IntelliJ IDEA            2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Slack                    53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Terminal                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Claude Code              32 hrs 18 mins      ████████████████░░░░░░░░░   62.11 % 
+Chrome                   14 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+IntelliJ IDEA            3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Slack                    53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Terminal                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 💻 Operating System: 
-Windows                  34 hrs 2 mins       ██████████████████░░░░░░░   71.36 % 
-Mac                      13 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+Windows                  34 hrs 22 mins      █████████████████░░░░░░░░   66.09 % 
+Mac                      17 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   33.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 58 mins (73.31%)
+⏱ AI Coding Time: 36 hrs 52 mins (70.88%)
 
-✍️ 38,459 lines written by AI, 85 lines written by hand (99.78% AI-written)
+✍️ 42,802 lines written by AI, 118 lines written by hand (99.73% AI-written)
 
-🔤 1,220,551,676 Input Tokens, 3,253,029 Output Tokens
+🔤 1,339,512,697 Input Tokens, 3,343,108 Output Tokens
 
-💵 $6162.71 Estimated AI Cost This Week
+💵 $6760.15 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 255 AI Prompts
+🧠 38 AI Sessions, 251 AI Prompts
 
-Opus                     38,953 lines        █████████████████████████   99.92 % 
-Sonnet                   32 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Opus                     43,621 lines        █████████████████████████   99.93 % 
+Sonnet                   32 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📚 Verbose Prompter — average 4,792 characters per prompt
+🤖 AI-Driven — 99.73% of written lines came from AI
+📚 Verbose Prompter — average 3,910 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.57% of changed lines were hand-edited
+🚀 High AI Trust — 0.58% of changed lines were hand-edited
 ```
 
 ```text
@@ -125,5 +125,5 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 19:23:51 UTC
+ Last Updated on 05/08/2026 22:08:45 UTC
 <!--END_SECTION:waka-->
