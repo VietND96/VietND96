@@ -27,10 +27,6 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C635%20hrs%204%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-391%20hrs%2039%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -45,75 +41,6 @@ WakaTime</a> </h3>
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Python                   13 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-Other                    11 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-Markdown                 8 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Bash                     3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-YAML                     3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-
-🔥 Editors: 
-Claude Code              32 hrs 18 mins      ████████████████░░░░░░░░░   62.11 % 
-Chrome                   14 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-IntelliJ IDEA            3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Slack                    53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Terminal                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-
-💻 Operating System: 
-Windows                  34 hrs 22 mins      █████████████████░░░░░░░░   66.09 % 
-Mac                      17 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   33.91 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 36 hrs 52 mins (70.88%)
-
-✍️ 42,802 lines written by AI, 118 lines written by hand (99.73% AI-written)
-
-🔤 1,339,512,697 Input Tokens, 3,343,108 Output Tokens
-
-💵 $6760.15 Estimated AI Cost This Week
-
-🧠 38 AI Sessions, 251 AI Prompts
-
-Opus                     43,621 lines        █████████████████████████   99.93 % 
-Sonnet                   32 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.73% of written lines came from AI
-📚 Verbose Prompter — average 3,910 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.58% of changed lines were hand-edited
-```
-
 ```text
 
 ```
@@ -125,5 +52,5 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 13:56:08 UTC
+ Last Updated on 06/08/2026 23:54:22 UTC
 <!--END_SECTION:waka-->
