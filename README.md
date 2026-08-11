@@ -31,13 +31,13 @@ WakaTime</a> </h3>
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-416%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.30%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 95.7 kB Used in GitHub's Storage 
  > 
-> 🏆 592 Contributions in the Year 2026
+> 🏆 593 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -48,21 +48,21 @@ WakaTime</a> </h3>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                8001 commits        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+🌆 Daytime                9613 commits        ████████░░░░░░░░░░░░░░░░░   30.39 % 
+🌃 Evening                9348 commits        ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+🌙 Night                  4673 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   5814 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Tuesday                  5209 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Wednesday                5692 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Thursday                 5338 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Friday                   4485 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Saturday                 3128 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Sunday                   1969 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 ```
 
 
@@ -112,8 +112,14 @@ Opus                     39,872 lines        ███████████�
 🚀 High AI Trust — 0.16% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in Java** 
 
+```text
+Java                     13 repos            █████████░░░░░░░░░░░░░░░░   35.14 % 
+Groovy                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
@@ -123,5 +129,5 @@ Opus                     39,872 lines        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 12:54:14 UTC
+ Last Updated on 11/08/2026 16:11:47 UTC
 <!--END_SECTION:waka-->
