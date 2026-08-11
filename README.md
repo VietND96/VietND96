@@ -45,6 +45,73 @@ WakaTime</a> </h3>
  > 
 > 🔑 1 Private Repository 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+Markdown                 7 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Java                     7 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Other                    7 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+TypeScript               6 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Python                   6 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+
+🔥 Editors: 
+Claude Code              33 hrs 3 mins       ██████████████████░░░░░░░   71.17 % 
+Chrome                   9 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+IntelliJ IDEA            3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Slack                    53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Terminal                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
+💻 Operating System: 
+Windows                  31 hrs 39 mins      █████████████████░░░░░░░░   68.16 % 
+Mac                      14 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   31.84 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 36 hrs 44 mins (79.12%)
+
+✍️ 38,959 lines written by AI, 55 lines written by hand (99.86% AI-written)
+
+🔤 1,043,547,512 Input Tokens, 2,893,251 Output Tokens
+
+💵 $5400.51 Estimated AI Cost This Week
+
+🧠 44 AI Sessions, 268 AI Prompts
+
+Opus                     39,872 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.86% of written lines came from AI
+📚 Verbose Prompter — average 4,781 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.16% of changed lines were hand-edited
+```
+
 ```text
 
 ```
@@ -56,5 +123,5 @@ WakaTime</a> </h3>
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 21:37:10 UTC
+ Last Updated on 11/08/2026 01:19:44 UTC
 <!--END_SECTION:waka-->
