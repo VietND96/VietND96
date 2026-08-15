@@ -72,44 +72,44 @@ Sunday                   1978 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    11 hrs 23 mins      ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-TypeScript               10 hrs 15 mins      █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Java                     10 hrs 14 mins      █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Markdown                 7 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Python                   3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Other                    11 hrs 23 mins      ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+Java                     8 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+TypeScript               8 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Markdown                 7 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Python                   3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 🔥 Editors: 
-Claude Code              35 hrs              █████████████████░░░░░░░░   67.57 % 
-Chrome                   14 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-IntelliJ IDEA            1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Slack                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Terminal                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Claude Code              32 hrs 26 mins      █████████████████░░░░░░░░   66.16 % 
+Chrome                   14 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+IntelliJ IDEA            1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Slack                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Terminal                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Windows                  32 hrs 48 mins      ████████████████░░░░░░░░░   63.32 % 
-Mac                      19 hrs              █████████░░░░░░░░░░░░░░░░   36.68 % 
+Windows                  30 hrs 1 min        ███████████████░░░░░░░░░░   61.24 % 
+Mac                      19 hrs              ██████████░░░░░░░░░░░░░░░   38.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 28 mins (72.32%)
+⏱ AI Coding Time: 34 hrs 41 mins (70.76%)
 
-✍️ 54,658 lines written by AI, 89 lines written by hand (99.84% AI-written)
+✍️ 52,778 lines written by AI, 89 lines written by hand (99.83% AI-written)
 
-🔤 367,251,171 Input Tokens, 3,171,669 Output Tokens
+🔤 282,119,335 Input Tokens, 3,077,774 Output Tokens
 
-💵 $2507.07 Estimated AI Cost This Week
+💵 $2082.98 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 239 AI Prompts
+🧠 46 AI Sessions, 235 AI Prompts
 
-Opus                     55,340 lines        █████████████████████████   100.00 % 
+Opus                     53,459 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.84% of written lines came from AI
-📚 Verbose Prompter — average 3,965 characters per prompt
+🤖 AI-Driven — 99.83% of written lines came from AI
+📚 Verbose Prompter — average 3,998 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.31% of changed lines were hand-edited
+🚀 High AI Trust — 0.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -129,5 +129,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 18:32:12 UTC
+ Last Updated on 15/08/2026 21:27:42 UTC
 <!--END_SECTION:waka-->
