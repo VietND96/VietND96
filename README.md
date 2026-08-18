@@ -27,15 +27,15 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C687%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C697%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-441%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-451%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.32%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 96.5 kB Used in GitHub's Storage 
+> 📦 96.6 kB Used in GitHub's Storage 
  > 
 > 🏆 606 Contributions in the Year 2026
  > 
@@ -45,73 +45,6 @@ WakaTime</a> </h3>
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                8070 commits        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-🌆 Daytime                9664 commits        ████████░░░░░░░░░░░░░░░░░   30.43 % 
-🌃 Evening                9387 commits        ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-🌙 Night                  4641 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   5829 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Tuesday                  5187 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Wednesday                5719 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Thursday                 5387 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Friday                   4504 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Saturday                 3151 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Sunday                   1985 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Other                    11 hrs 23 mins      ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-TypeScript               8 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Java                     8 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Markdown                 7 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Python                   3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-
-🔥 Editors: 
-Claude Code              32 hrs 4 mins       ████████████████░░░░░░░░░   65.98 % 
-Chrome                   14 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-IntelliJ IDEA            1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Slack                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Terminal                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-
-💻 Operating System: 
-Windows                  29 hrs 37 mins      ███████████████░░░░░░░░░░   60.92 % 
-Mac                      19 hrs              ██████████░░░░░░░░░░░░░░░   39.08 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 34 hrs 17 mins (70.52%)
-
-✍️ 52,702 lines written by AI, 89 lines written by hand (99.83% AI-written)
-
-🔤 267,738,689 Input Tokens, 3,062,790 Output Tokens
-
-💵 $2010.70 Estimated AI Cost This Week
-
-🧠 45 AI Sessions, 232 AI Prompts
-
-Opus                     53,383 lines        █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📚 Verbose Prompter — average 4,049 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.32% of changed lines were hand-edited
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -129,5 +62,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 21:33:22 UTC
+ Last Updated on 18/08/2026 01:08:54 UTC
 <!--END_SECTION:waka-->
