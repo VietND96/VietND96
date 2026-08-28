@@ -31,7 +31,7 @@ WakaTime</a> </h3>
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-482%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.94%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.91%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -48,21 +48,21 @@ WakaTime</a> </h3>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8640 commits        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-🌆 Daytime                10264 commits       ████████░░░░░░░░░░░░░░░░░   30.30 % 
-🌃 Evening                9972 commits        ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-🌙 Night                  4999 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+🌞 Morning                8608 commits        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+🌆 Daytime                10231 commits       ████████░░░░░░░░░░░░░░░░░   30.31 % 
+🌃 Evening                9927 commits        ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌙 Night                  4983 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   6231 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Tuesday                  5533 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Wednesday                6091 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Thursday                 5677 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Friday                   4789 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Saturday                 3402 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Sunday                   2152 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Monday                   6206 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Tuesday                  5511 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Wednesday                6072 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Thursday                 5652 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Friday                   4771 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Saturday                 3392 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Sunday                   2145 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 ```
 
 
@@ -129,5 +129,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 13:52:25 UTC
+ Last Updated on 28/08/2026 00:23:56 UTC
 <!--END_SECTION:waka-->
