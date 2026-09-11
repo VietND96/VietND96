@@ -48,19 +48,19 @@ WakaTime</a> </h3>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8607 commits        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-🌆 Daytime                10225 commits       ████████░░░░░░░░░░░░░░░░░   30.25 % 
-🌃 Evening                9940 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-🌙 Night                  5033 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+🌞 Morning                8607 commits        ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+🌆 Daytime                10224 commits       ████████░░░░░░░░░░░░░░░░░   30.25 % 
+🌃 Evening                9936 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+🌙 Night                  5028 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   6201 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Tuesday                  5516 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Wednesday                6088 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Thursday                 5653 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Friday                   4790 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Monday                   6199 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Tuesday                  5512 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Wednesday                6086 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Thursday                 5652 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Friday                   4789 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
 Saturday                 3401 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 Sunday                   2156 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 ```
@@ -118,11 +118,11 @@ Haiku                    1,050 lines         ░░░░░░░░░░░�
 **I Mostly Code in Java** 
 
 ```text
-Java                     12 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
-Groovy                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Java                     11 repos            █████████░░░░░░░░░░░░░░░░   35.48 % 
+Groovy                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
@@ -132,5 +132,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 13:25:00 UTC
+ Last Updated on 11/09/2026 18:20:00 UTC
 <!--END_SECTION:waka-->
