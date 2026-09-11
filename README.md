@@ -27,11 +27,11 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C809%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C812%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-589%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-592%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.42%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -45,76 +45,6 @@ WakaTime</a> </h3>
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                8607 commits        ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
-🌆 Daytime                10224 commits       ████████░░░░░░░░░░░░░░░░░   30.25 % 
-🌃 Evening                9936 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-🌙 Night                  5028 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   6199 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Tuesday                  5512 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Wednesday                6086 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Thursday                 5652 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Friday                   4789 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Saturday                 3401 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Sunday                   2156 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Other                    53 hrs 57 mins      █████████████░░░░░░░░░░░░   52.75 % 
-Python                   15 hrs 49 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Markdown                 8 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Java                     4 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-HTML                     3 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-
-🔥 Editors: 
-Claude Code              32 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   31.82 % 
-Terminal                 31 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   31.26 % 
-MicrosoftTeams           12 hrs 11 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-MicrosoftEdge            11 hrs 40 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Chrome                   8 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-
-💻 Operating System: 
-Mac                      102 hrs 12 mins     █████████████████████████   99.92 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 64 hrs 10 mins (62.74%)
-
-✍️ 55,243 lines written by AI, 38 lines written by hand (99.93% AI-written)
-
-🔤 38,028,683 Input Tokens, 5,011,257 Output Tokens
-
-💵 $1759.95 Estimated AI Cost This Week
-
-🧠 34 AI Sessions, 692 AI Prompts
-
-Opus                     46,150 lines        █████████████████████░░░░   83.79 % 
-Fable                    6,305 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Sonnet                   1,570 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Haiku                    1,050 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📄 Detailed Prompter — average 1,409 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -132,5 +62,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 18:20:00 UTC
+ Last Updated on 11/09/2026 23:07:52 UTC
 <!--END_SECTION:waka-->
