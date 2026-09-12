@@ -35,7 +35,7 @@ WakaTime</a> </h3>
 
 **🐱 My GitHub Data** 
 
-> 📦 99.2 kB Used in GitHub's Storage 
+> 📦 99.3 kB Used in GitHub's Storage 
  > 
 > 🏆 577 Contributions in the Year 2026
  > 
@@ -72,47 +72,45 @@ Sunday                   2156 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    46 hrs              ████████████░░░░░░░░░░░░░   47.94 % 
-Python                   16 hrs 59 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Markdown                 8 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Java                     4 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-HTML                     3 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Other                    38 hrs 11 mins      █████████████░░░░░░░░░░░░   51.37 % 
+Python                   11 hrs 15 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Markdown                 5 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+HTML                     3 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+JavaScript               3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🔥 Editors: 
-Terminal                 29 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   30.79 % 
-Claude Code              29 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   30.79 % 
-MicrosoftEdge            12 hrs 59 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-MicrosoftTeams           12 hrs 59 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Chrome                   5 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Claude Code              20 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+Terminal                 19 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+MicrosoftTeams           12 hrs 46 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+MicrosoftEdge            12 hrs 38 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+MicrosoftOutlook         4 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 
 💻 Operating System: 
-Mac                      95 hrs 52 mins      █████████████████████████   99.91 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Mac                      74 hrs 15 mins      █████████████████████████   99.89 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 hrs 49 mins (62.35%)
+⏱ AI Coding Time: 45 hrs 24 mins (61.08%)
 
-✍️ 65,096 lines written by AI, 38 lines written by hand (99.94% AI-written)
+✍️ 35,292 lines written by AI, 38 lines written by hand (99.89% AI-written)
 
-🔤 50,630,367 Input Tokens, 6,712,115 Output Tokens
+🔤 35,250,871 Input Tokens, 4,452,539 Output Tokens
 
-💵 $2470.19 Estimated AI Cost This Week
+💵 $1687.91 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 807 AI Prompts
+🧠 22 AI Sessions, 618 AI Prompts
 
-Opus                     58,671 lines        ██████████████████████░░░   89.44 % 
-Fable                    2,589 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Sonnet                   2,240 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Haiku                    2,100 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Opus                     35,522 lines        █████████████████████████   99.95 % 
+Sonnet                   18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 1,536 characters per prompt
-🔁 Iterative Prompter — average 26 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 1,632 characters per prompt
+🔁 Iterative Prompter — average 28 prompts per session
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -132,5 +130,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 17:49:37 UTC
+ Last Updated on 12/09/2026 20:16:49 UTC
 <!--END_SECTION:waka-->
