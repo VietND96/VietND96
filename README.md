@@ -27,9 +27,9 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C812%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C816%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-592%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-597%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.38%20million%20lines%20of%20code-blue?style=flat)
 
@@ -72,45 +72,45 @@ Sunday                   2156 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    38 hrs 11 mins      █████████████░░░░░░░░░░░░   51.37 % 
-Python                   11 hrs 15 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Markdown                 5 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-HTML                     3 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-JavaScript               3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Other                    34 hrs 36 mins      ███████████████░░░░░░░░░░   58.21 % 
+Python                   6 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Markdown                 4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+JavaScript               3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-Terminal                 19 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-MicrosoftTeams           12 hrs 46 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-MicrosoftEdge            12 hrs 38 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-MicrosoftOutlook         4 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+MicrosoftTeams           17 hrs              ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+Claude Code              14 hrs 56 mins      ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+MicrosoftEdge            10 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Terminal                 10 hrs 31 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+MicrosoftOutlook         4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 💻 Operating System: 
-Mac                      74 hrs 15 mins      █████████████████████████   99.89 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Mac                      59 hrs 8 mins       █████████████████████████   99.49 % 
+Windows                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 hrs 24 mins (61.08%)
+⏱ AI Coding Time: 33 hrs 22 mins (56.15%)
 
-✍️ 35,292 lines written by AI, 38 lines written by hand (99.89% AI-written)
+✍️ 23,838 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 35,250,871 Input Tokens, 4,452,539 Output Tokens
+🔤 20,582,987 Input Tokens, 2,719,831 Output Tokens
 
-💵 $1687.91 Estimated AI Cost This Week
+💵 $1079.81 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 618 AI Prompts
+🧠 18 AI Sessions, 406 AI Prompts
 
-Opus                     35,522 lines        █████████████████████████   99.95 % 
-Sonnet                   18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Opus                     24,046 lines        █████████████████████████   99.93 % 
+Sonnet                   18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📚 Verbose Prompter — average 1,632 characters per prompt
-🔁 Iterative Prompter — average 28 prompts per session
-🚀 High AI Trust — 0.11% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,622 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -130,5 +130,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 18:05:33 UTC
+ Last Updated on 13/09/2026 20:23:14 UTC
 <!--END_SECTION:waka-->
