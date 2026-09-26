@@ -35,7 +35,7 @@ WakaTime</a> </h3>
 
 **🐱 My GitHub Data** 
 
-> 📦 100.3 kB Used in GitHub's Storage 
+> 📦 100.4 kB Used in GitHub's Storage 
  > 
 > 🏆 584 Contributions in the Year 2026
  > 
@@ -72,41 +72,41 @@ Sunday                   2183 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    19 hrs 21 mins      ██████████████░░░░░░░░░░░   54.46 % 
-Markdown                 5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-TypeScript               3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-YAML                     3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Python                   2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Other                    19 hrs 21 mins      ██████████████░░░░░░░░░░░   55.00 % 
+Markdown                 4 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+TypeScript               3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+YAML                     3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Python                   2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   34.63 % 
-Terminal                 11 hrs 22 mins      ████████░░░░░░░░░░░░░░░░░   31.99 % 
-MicrosoftEdge            10 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   30.25 % 
-Chrome                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Claude Code              12 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   34.31 % 
+Terminal                 11 hrs 15 mins      ████████░░░░░░░░░░░░░░░░░   31.97 % 
+MicrosoftEdge            10 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   30.56 % 
+Chrome                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 💻 Operating System: 
-Mac                      35 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 5 mins (50.87%)
+⏱ AI Coding Time: 17 hrs 44 mins (50.39%)
 
-✍️ 12,667 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,612 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,637,416 Input Tokens, 1,388,123 Output Tokens
+🔤 9,231,493 Input Tokens, 1,348,225 Output Tokens
 
-💵 $178.91 Estimated AI Cost This Week
+💵 $175.45 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 151 AI Prompts
+🧠 23 AI Sessions, 144 AI Prompts
 
-Sonnet                   12,939 lines        ███████████████████████░░   92.18 % 
-Opus                     1,097 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Sonnet                   12,153 lines        ███████████████████████░░   93.67 % 
+Opus                     821 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,995 characters per prompt
+📚 Verbose Prompter — average 4,035 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -128,5 +128,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 20:45:36 UTC
+ Last Updated on 26/09/2026 23:32:08 UTC
 <!--END_SECTION:waka-->
