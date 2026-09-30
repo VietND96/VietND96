@@ -27,9 +27,9 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C860%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C868%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-645%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-653%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.51%20million%20lines%20of%20code-blue?style=flat)
 
@@ -72,43 +72,44 @@ Sunday                   2176 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    10 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   36.13 % 
-Markdown                 6 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-TypeScript               3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-YAML                     3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Java                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Markdown                 9 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.99 % 
+Other                    4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+YAML                     3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+TypeScript               3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Java                     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 25 mins      █████████████░░░░░░░░░░░░   51.39 % 
-MicrosoftEdge            9 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.36 % 
-Terminal                 4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Chrome                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-MicrosoftTeams           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Claude Code              18 hrs 36 mins      █████████████████░░░░░░░░   68.93 % 
+MicrosoftEdge            3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Terminal                 2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+MicrosoftTeams           59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Chrome                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 💻 Operating System: 
-Mac                      30 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      26 hrs 36 mins      █████████████████████████   98.62 % 
+Windows                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 43 mins (65.69%)
+⏱ AI Coding Time: 23 hrs 40 mins (87.76%)
 
-✍️ 17,722 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 24,276 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,766,544 Input Tokens, 2,089,794 Output Tokens
+🔤 11,954,465 Input Tokens, 2,933,993 Output Tokens
 
-💵 $225.02 Estimated AI Cost This Week
+💵 $280.85 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 137 AI Prompts
+🧠 17 AI Sessions, 281 AI Prompts
 
-Sonnet                   11,989 lines        ████████████████░░░░░░░░░   62.72 % 
-Opus                     7,126 lines         █████████░░░░░░░░░░░░░░░░   37.28 % 
+Opus                     16,279 lines        █████████████████░░░░░░░░   67.92 % 
+Sonnet                   7,688 lines         ████████░░░░░░░░░░░░░░░░░   32.08 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,961 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 1,631 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -129,5 +130,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 19:59:46 UTC
+ Last Updated on 30/09/2026 00:15:52 UTC
 <!--END_SECTION:waka-->
