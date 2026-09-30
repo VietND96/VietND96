@@ -27,15 +27,15 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C868%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C880%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-653%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-668%20hrs%2053%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.62%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.65%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 100.5 kB Used in GitHub's Storage 
+> 📦 100.6 kB Used in GitHub's Storage 
  > 
 > 🏆 584 Contributions in the Year 2026
  > 
@@ -45,74 +45,6 @@ WakaTime</a> </h3>
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                8780 commits        ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-🌆 Daytime                10413 commits       ████████░░░░░░░░░░░░░░░░░   30.13 % 
-🌃 Evening                10210 commits       ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-🌙 Night                  5158 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   6355 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Tuesday                  5665 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Wednesday                6208 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Thursday                 5788 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Friday                   4891 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Saturday                 3457 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Sunday                   2197 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Markdown                 9 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.99 % 
-Other                    4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-YAML                     3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-TypeScript               3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Java                     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-
-🔥 Editors: 
-Claude Code              18 hrs 36 mins      █████████████████░░░░░░░░   68.93 % 
-MicrosoftEdge            3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Terminal                 2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-MicrosoftTeams           59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Chrome                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-
-💻 Operating System: 
-Mac                      26 hrs 36 mins      █████████████████████████   98.62 % 
-Windows                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 23 hrs 40 mins (87.76%)
-
-✍️ 24,276 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 11,954,465 Input Tokens, 2,933,993 Output Tokens
-
-💵 $280.85 Estimated AI Cost This Week
-
-🧠 17 AI Sessions, 281 AI Prompts
-
-Opus                     16,279 lines        █████████████████░░░░░░░░   67.92 % 
-Sonnet                   7,688 lines         ████████░░░░░░░░░░░░░░░░░   32.08 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,631 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -130,5 +62,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 17:45:24 UTC
+ Last Updated on 30/09/2026 22:00:50 UTC
 <!--END_SECTION:waka-->
