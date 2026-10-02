@@ -27,15 +27,15 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C880%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C887%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-668%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-676%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.62%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 100.6 kB Used in GitHub's Storage 
+> 📦 100.7 kB Used in GitHub's Storage 
  > 
 > 🏆 584 Contributions in the Year 2026
  > 
@@ -72,44 +72,44 @@ Sunday                   2197 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 13 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   35.61 % 
-Other                    7 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-YAML                     5 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Java                     4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Python                   2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Markdown                 17 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   35.91 % 
+Other                    11 hrs 13 mins      ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Java                     7 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+YAML                     4 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Python                   2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 47 mins      █████████████████░░░░░░░░   69.36 % 
-MicrosoftEdge            4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Terminal                 4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-MicrosoftTeams           1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Chrome                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Claude Code              30 hrs 25 mins      ████████████████░░░░░░░░░   63.81 % 
+MicrosoftEdge            6 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Terminal                 5 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+MicrosoftTeams           3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Chrome                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 💻 Operating System: 
-Mac                      38 hrs 9 mins       █████████████████████████   98.76 % 
-Windows                  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Mac                      47 hrs 11 mins      █████████████████████████   99.00 % 
+Windows                  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 3 mins (88.18%)
+⏱ AI Coding Time: 39 hrs 27 mins (82.77%)
 
-✍️ 58,071 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 96,420 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 30,735,558 Input Tokens, 5,429,404 Output Tokens
+🔤 39,583,882 Input Tokens, 6,867,125 Output Tokens
 
-💵 $684.56 Estimated AI Cost This Week
+💵 $882.41 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 450 AI Prompts
+🧠 19 AI Sessions, 487 AI Prompts
 
-Opus                     53,280 lines        ███████████████████████░░   90.40 % 
-Sonnet                   5,659 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Opus                     94,323 lines        ████████████████████████░   96.87 % 
+Sonnet                   3,050 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,232 characters per prompt
-🔁 Iterative Prompter — average 24 prompts per session
+📚 Verbose Prompter — average 2,185 characters per prompt
+🔁 Iterative Prompter — average 26 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -130,5 +130,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 20:20:40 UTC
+ Last Updated on 02/10/2026 00:42:25 UTC
 <!--END_SECTION:waka-->
