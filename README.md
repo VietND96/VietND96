@@ -72,44 +72,44 @@ Sunday                   2190 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 17 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   35.91 % 
-Other                    11 hrs 13 mins      ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-Java                     7 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-YAML                     4 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Python                   2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Markdown                 15 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   35.79 % 
+Other                    11 hrs 13 mins      ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+Java                     7 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+YAML                     4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Python                   2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🔥 Editors: 
-Claude Code              30 hrs 25 mins      ████████████████░░░░░░░░░   63.81 % 
-MicrosoftEdge            6 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Terminal                 5 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-MicrosoftTeams           3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Chrome                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Claude Code              27 hrs 18 mins      ███████████████░░░░░░░░░░   61.28 % 
+MicrosoftEdge            6 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Terminal                 5 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+MicrosoftTeams           3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Chrome                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 💻 Operating System: 
-Mac                      47 hrs 11 mins      █████████████████████████   99.00 % 
-Windows                  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Mac                      44 hrs 4 mins       █████████████████████████   98.93 % 
+Windows                  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 27 mins (82.77%)
+⏱ AI Coding Time: 36 hrs 20 mins (81.56%)
 
-✍️ 96,420 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 93,216 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 39,583,882 Input Tokens, 6,867,125 Output Tokens
+🔤 37,295,316 Input Tokens, 6,464,642 Output Tokens
 
-💵 $882.41 Estimated AI Cost This Week
+💵 $832.91 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 487 AI Prompts
+🧠 15 AI Sessions, 449 AI Prompts
 
-Opus                     94,323 lines        ████████████████████████░   96.87 % 
-Sonnet                   3,050 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Opus                     94,013 lines        █████████████████████████   99.92 % 
+Sonnet                   78 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,185 characters per prompt
-🔁 Iterative Prompter — average 26 prompts per session
+📚 Verbose Prompter — average 2,248 characters per prompt
+🔁 Iterative Prompter — average 30 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -130,5 +130,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 17:34:45 UTC
+ Last Updated on 02/10/2026 21:58:36 UTC
 <!--END_SECTION:waka-->
