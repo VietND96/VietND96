@@ -35,7 +35,7 @@ WakaTime</a> </h3>
 
 **🐱 My GitHub Data** 
 
-> 📦 101.0 kB Used in GitHub's Storage 
+> 📦 101.1 kB Used in GitHub's Storage 
  > 
 > 🏆 584 Contributions in the Year 2026
  > 
@@ -50,7 +50,7 @@ WakaTime</a> </h3>
 ```text
 🌞 Morning                8946 commits        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
 🌆 Daytime                10604 commits       ████████░░░░░░░░░░░░░░░░░   30.14 % 
-🌃 Evening                10365 commits       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+🌃 Evening                10364 commits       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
 🌙 Night                  5269 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -62,7 +62,7 @@ Wednesday                6317 commits        ████░░░░░░░�
 Thursday                 5862 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 Friday                   4990 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 Saturday                 3537 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Sunday                   2250 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Sunday                   2249 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 ```
 
 
@@ -116,11 +116,11 @@ Sonnet                   78 lines            ░░░░░░░░░░░�
 **I Mostly Code in Java** 
 
 ```text
-Java                     11 repos            █████████░░░░░░░░░░░░░░░░   35.48 % 
-Groovy                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Java                     11 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
+Groovy                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
@@ -130,5 +130,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2026 13:42:24 UTC
+ Last Updated on 05/10/2026 22:03:02 UTC
 <!--END_SECTION:waka-->
