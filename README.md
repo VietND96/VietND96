@@ -27,9 +27,9 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C022%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C022%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-840%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-840%20hrs%2050%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.68%20million%20lines%20of%20code-blue?style=flat)
 
@@ -72,42 +72,42 @@ Sunday                   2307 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    47 hrs 39 mins      █████████████░░░░░░░░░░░░   53.48 % 
-TypeScript               9 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Markdown                 8 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Python                   6 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-YAML                     5 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Other                    42 hrs 19 mins      █████████████░░░░░░░░░░░░   53.11 % 
+TypeScript               9 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Markdown                 6 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+YAML                     5 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Python                   5 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 
 🔥 Editors: 
-Claude Code              41 hrs 18 mins      ████████████░░░░░░░░░░░░░   46.37 % 
-Terminal                 17 hrs 39 mins      █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-MicrosoftEdge            15 hrs 49 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-MicrosoftTeams           9 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Chrome                   2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Claude Code              37 hrs 7 mins       ████████████░░░░░░░░░░░░░   46.58 % 
+Terminal                 16 hrs 25 mins      █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+MicrosoftEdge            13 hrs 31 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+MicrosoftTeams           9 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Chrome                   1 hr 34 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 💻 Operating System: 
-Mac                      89 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      79 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 hrs 48 mins (54.79%)
+⏱ AI Coding Time: 44 hrs 2 mins (55.26%)
 
-✍️ 153,518 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 148,613 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 57,156,448 Input Tokens, 19,166,701 Output Tokens
+🔤 55,028,627 Input Tokens, 18,639,690 Output Tokens
 
-💵 $1894.17 Estimated AI Cost This Week
+💵 $1844.87 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 775 AI Prompts
+🧠 43 AI Sessions, 732 AI Prompts
 
-Sonnet                   148,918 lines       ████████████████████████░   95.04 % 
-Opus                     7,776 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Sonnet                   147,910 lines       ████████████████████████░   97.09 % 
+Opus                     4,434 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,062 characters per prompt
+📚 Verbose Prompter — average 1,882 characters per prompt
 🔁 Iterative Prompter — average 17 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -129,5 +129,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 20:18:50 UTC
+ Last Updated on 24/10/2026 23:00:44 UTC
 <!--END_SECTION:waka-->
